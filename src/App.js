@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import SearchBar from "./components/SearchBar";
 import Table from "./components/Table";
+//anmol
 
 function App() {
   const [teams, setTeams] = useState([]);
